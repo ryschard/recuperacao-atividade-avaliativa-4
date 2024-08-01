@@ -35,7 +35,7 @@ Escreva um algoritmo que receba 5 nomes e 5 idades do usuário, armazene essas i
 ---
 
 ### Questão 02
-Escreva um algoritmo que solicite ao usuário um texto ou palavra e ele conte quantas vogais esse texto ou palavra tem. Vale lembrar que toda String (texto), nada mais é do que um vetor de caracteres.
+Escreva um algoritmo que solicite ao usuário um texto ou palavra e ele conte quantas consoantes esse texto ou palavra tem. Vale lembrar que toda String (texto), nada mais é do que um vetor de caracteres.
 
 ---
 
